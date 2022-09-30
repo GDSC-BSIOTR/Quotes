@@ -12,7 +12,6 @@
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
 
-=======
 {
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
@@ -55,7 +54,6 @@ Footer
 
       "Quotes": "I try to create sympathy for my characters, then turn the monsters loose."
 
-=======
 },
         
     {
@@ -230,13 +228,17 @@ Footer
       "Role Model": " Pablo Picasso",
       "Quotes": "Inspiration does exist, but it must find you working.”
     }
-=======
+
  
 
         {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
     }
+{
+      "Role Model": "Ralph Waldo Emerson",
+      "Quotes": "Life is a journey not a destination."
+    },
       {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
