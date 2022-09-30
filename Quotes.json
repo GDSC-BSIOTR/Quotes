@@ -155,12 +155,23 @@ Footer
     
     
     },
+        
+Footer
+© 2022 GitHub, Inc.
+ 
+        
+        
+        
+        
         {   
      "Role Model": "mahatma gandhi",
       "Quotes": "Be the change that you wish to see in the world..."
         },
 
     }
+ 
+        
+=======
         {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
@@ -194,13 +205,15 @@ Footer
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
     },
-Footer
-© 2022 GitHub, Inc.
-        
-        
-        
-        
-        {
+
+
+
+{
+
+      "Role Model": "Shiv Khera",
+      "Quotes": "Winners don't do different things, they do things differently"
+    }
+
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
     }    
@@ -208,6 +221,4 @@ Footer
         "Role Model": "steve jobs"
         "Quotes": "The buisness of living is the celebration of being alive"
         },
-
-
         ]
