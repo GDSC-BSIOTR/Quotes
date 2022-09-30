@@ -14,20 +14,24 @@
         "Role Model": "Sandeep Maheshwari"
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
-
 {
-      "Role Model": "Douglas Adams",
-      "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
-    },
-Footer
-© 2022 GitHub, Inc.
-        
+        "Role Model": "Sandeep Maheshwari"
+        "Quotes": "A professional writer is an amateur who didn’t quit."
+        },
+
         
         
         
         {
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
+
+    } 
+{
+      "Role Model": "Chhatrapati Shivaji Maharaj",
+      "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
+    }
+}
     }    
   {
         "Role Model": "steve jobs"
@@ -272,12 +276,13 @@ Footer
     }    
   {
         "Role Model": "steve jobs"
+        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
+        },
         "Quotes": "The buisness of living is the celebration of being alive"
         },
     
     
     },
-        
 
  
         
@@ -331,6 +336,7 @@ Footer
 
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
+    },  
     }    
   {
         "Role Model": "steve jobs"
@@ -392,6 +398,9 @@ Footer
 
 
 {
+      "Role Model": "Average Jignesh",
+      "Quotes": "Thats what she said"
+    },
 
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
@@ -413,6 +422,33 @@ Footer
     {
       "Role Model": "Ravindranath tagore",
       "Quotes": "love's gift cannot be given, it waits to be accepted."
+    },
+    
+    
+    {
+        "Role Model": "steve jobs"
+        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
+        }
+
+    {
+      "Role Model": "Elon Musk",
+      "Quotes": "When something is important enough, you do it even if the odds are not in your favour."
+    },
+
+   {
+      "Role Model": "Marilyn Monroe"
+      "Quotes": "I think there’s two things in human beings…that they want to be alone, but they also want to be together."
+    },    
+        ]
+
+    {
+        "Role Model": "Sandeep Maheshwari"
+        "Quotes": "Smile to change the world, Don't let the world change your smile."
+        },
+
+{
+      "Role Model": "Douglas Adams",
+      "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
     },
         ]
 }
