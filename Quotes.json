@@ -122,23 +122,7 @@ Footer
       "Role Model": "Michael jordan",
       "Quotes": "The key to success is failure"
     },
-    {
-      "Role Model": "Issac Newton",
-      "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people."
-}
-
-}
-
-
-
-
-
-
-
-{
-      "Role Model": "Ratan Tata",
-      "Quotes": "I don't make decisions right I make my decisions right "
-    }
+    
 
 
 
@@ -160,7 +144,69 @@ Footer
     
     
     
-    
+    {   
+     "Role Model": "mahatma gandhi",
+      "Quotes": "Be the change that you wish to see in the world..."
+        },
+
+    }
+
+     {
+      "Role Model": " Pablo Picasso",
+      "Quotes": "Inspiration does exist, but it must find you working.”
+    }
+=======
+ 
+
+        {
+      "Role Model": "APJ Abdul kalam",
+      "Quotes": "If you want to shine like a sun, first burn like a sun."
+    }
+      {
+      "Role Model": "Sundar pichai",
+      "Quotes": "Always stay positive"
+    }
+        
+
+
+    {
+      "Role Model": "Ratan Tata",
+      "Quotes": "I don't make decisions right I make my decisions right "
+    }
+
+       
+       
+{
+      "Role Model": "SWAMI VIVEKANAD",
+      "Quotes": "YOU ARE THE CREATOR OF YOUR OWN DESTINY"
+    },
+
+
+    {
+        "Role Model": "Sandeep Maheshwari"
+        "Quotes": "Smile to change the world, Don't let the world change your smile."
+        },
+
+{
+      "Role Model": "Douglas Adams",
+      "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
+    },
+
+
+
+{
+
+      "Role Model": "Shiv Khera",
+      "Quotes": "Winners don't do different things, they do things differently"
+    }
+
+      "Role Model": "Leonardo da Vincim"
+      "Quotes": "Common Sense is that which judges the things given to it by other senses."
+    }    
+  {
+        "Role Model": "steve jobs"
+        "Quotes": "The buisness of living is the celebration of being alive"
+        },
     
     
     },
