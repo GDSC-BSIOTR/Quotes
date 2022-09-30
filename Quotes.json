@@ -2,41 +2,23 @@
     "thought / Quotes ": [
       { 
         "Role Model": "Albert Einstein",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes",
     },
     {
       "Role Model": "A.P.J Abdul Kalam",
-      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
+      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action",
     },
     {
       "Role Model": "Issac Newton",
-      "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people."
+      "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people",
     }
-        
-    {
-        "Role Model": "steve jobs"
-        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
-        }
-        ]
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- {
-      "Role Model": "Average Jignesh",
-      "Quotes": "Thats what she said :["
+        {
+      "Role Model": "Swami Vivekanand",
+      "Quotes": "Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts",
     },
+    {
+      "Role model": "My dad",
+      "Quotes": "Believe in comebacks, rather than setbacks",
+    },
+        
+}
