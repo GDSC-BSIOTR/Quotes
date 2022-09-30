@@ -1,17 +1,42 @@
 {
     "thought / Quotes ": [
       { 
-        "Role Model": "Albert Einstein",
+        "Role Model": "harshad Einstein",
         "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
     },
     {
-      "Role Model": "A.P.J Abdul Kalam",
+      "Role Model": "A.P.J shaikh Kalam",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
+},
+        
+    {
+      "Role Model": "Chhatrapati Shivaji Maharaj",
+      "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
+=======
+
+
+    {
+      "Role Model": "Mary Kom",
+      "Quotes": "Never buy gold, simply earn it"
     },
     {
       "Role Model": "Issac Newton",
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people."
     }
+
+
+    {
+      "Role Model": "Ratan Tata",
+      "Quotes": "I don't make decisions right I make my decisions right "
+    }
+=======
+       
+       
+{
+      "Role Model": "SWAMI VIVEKANAD",
+      "Quotes": "YOU ARE THE CREATOR OF YOUR OWN DESTINY"
+    },
+
         
     {
         "Role Model": "steve jobs"
@@ -25,10 +50,14 @@
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
     }    
+  {
+        "Role Model": "steve jobs"
+        "Quotes": "The buisness of living is the celebration of being alive"
+        },
         ]
+}
 
 }
- 
 
 
 
