@@ -12,7 +12,7 @@
     {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-=======
+
 
 
     {
@@ -27,13 +27,17 @@
       "Role Model": "Issac Newton",
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people."
     }
+      {
+      "Role Model": "Sundar pichai",
+      "Quotes": "Always stay positive"
+    }
+        
 
 
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
     }
-=======
        
        
 {
@@ -71,6 +75,7 @@ Footer
         "Role Model": "steve jobs"
         "Quotes": "The buisness of living is the celebration of being alive"
         },
+
         ]
 
 }
