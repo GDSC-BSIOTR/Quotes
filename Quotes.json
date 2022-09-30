@@ -96,12 +96,20 @@ Footer
     }
         
     {
+
+      "Role Model": "John Wooden",
+      "Quotes": "Being a role model is the most powerful form of educating."
+
+    }
+    {
       "Role Model": "Rosa Parks",
       "Quotes": "Each person must live their life as a model for others"
-=======
+     },
+     {
       "Role Model": "Rowan Atkinson",
       "Quotes": "But I always feel that whatever I do, Could do better. Suppose it is perfectionism.
     }
+
 }
         {
       "Role Model": "J. K. Rowling",
