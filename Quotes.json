@@ -226,7 +226,7 @@
      {
       "Role Model": " Pablo Picasso",
       "Quotes": "Inspiration does exist, but it must find you working.”
-    }
+    },
  
 
         {
@@ -236,14 +236,14 @@
       {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
-    }
+    },
         
 
 
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
-    }
+    },
 
        
        
@@ -269,11 +269,11 @@
 
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
-    }
+    },
 
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    }    
+    } ,   
   {
         "Role Model": "steve jobs"
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
@@ -295,18 +295,18 @@
         {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
-    }
+    },
       {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
-    }
+    },
         
 
 
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
-    }
+    },
 
        
        
@@ -494,6 +494,11 @@
 },
    "Role model " : "PRIYADARSHAN",
     "Quotes" : " hindi filmo ki taraha life main bhi,anth main sab kuch thik hi ho jata hai , aur agar thik na ho toh woh anth nhi picture abhi baki hai mere dost"
-}
+},
+{
+    "Role Model": "J.K. Rowling",
+    "Quotes": "“It matters not what someone is born, but what they grow to be.”".
+},
+
 
 ]
