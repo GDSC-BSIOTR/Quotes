@@ -1,6 +1,9 @@
 {
     "thought / Quotes ": [
-
+      { 
+        "Role Model": "Isac Newton",
+        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Duplicate Sizes"
+},
         
     {
         "Role Model": "steve jobs"
@@ -73,8 +76,15 @@ Footer
         { 
         "Role Model": "Albert Einstein",
         "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+
     },
+
     {
+      "Role Model": "Sachin Tendulkar",
+      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
+    }
+}
+
       "Role Model": "Dr.A.P.J Abdul Kalam",
       "Quotes": ""Dream,Dream,Dream.Dreams Transform into thoughts and thoughts result in action."
     }
