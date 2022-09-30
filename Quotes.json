@@ -46,6 +46,13 @@
         "Role Model": "steve jobs"
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
         }
+
+    {
+        "Role Model": "Sandeep Maheshwari"
+        "Quotes": "Smile to change the world, Don't let the world change your smile."
+        },
+
+=======
 {
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
@@ -65,6 +72,7 @@ Footer
         "Quotes": "The buisness of living is the celebration of being alive"
         },
         ]
+
 }
 
 }
