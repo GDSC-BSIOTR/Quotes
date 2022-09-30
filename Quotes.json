@@ -5,23 +5,8 @@
         "Quotes": "The Mind that Opens to a New Ideas Never returns to its Duplicate Sizes"
 },
         
-    {
-        "Role Model": "steve jobs"
-        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
-        }
+    
 
-    {
-        "Role Model": "Sandeep Maheshwari"
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-        },
-
-{
-      "Role Model": "Douglas Adams",
-      "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
-    },
-Footer
-© 2022 GitHub, Inc.
-        
         
         
         
@@ -409,7 +394,29 @@ Footer
     {
       "Role Model": "Ravindranath tagore",
       "Quotes": "love's gift cannot be given, it waits to be accepted."
-    }
+    },
+    
+    
+    {
+        "Role Model": "steve jobs"
+        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
+        }
+
+    {
+      "Role Model": "Elon Musk",
+      "Quotes": "When something is important enough, you do it even if the odds are not in your favour."
+    },
+=======
+
+    {
+        "Role Model": "Sandeep Maheshwari"
+        "Quotes": "Smile to change the world, Don't let the world change your smile."
+        },
+
+{
+      "Role Model": "Douglas Adams",
+      "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
+    },
         ]
 }
 
