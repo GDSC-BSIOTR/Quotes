@@ -523,13 +523,10 @@
 },
 
 
-
-
-
-
-
-
-
+{
+    "Role Model": "Alan Turing",
+    "Quotes": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human".
+},
 
 
 {
@@ -540,6 +537,11 @@
 
     "Role Model": "C.S.Lewis",
     "Quotes": "Atheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning.".
+},
+
+{
+    "Role Model": "APJ Abdul Kalam",
+    "Quotes": "creativity is seeing the samething but thinking diffenrtly. ".
 },
 ]
 
@@ -562,3 +564,16 @@
       "Quotes": "Get busy living or get busy dying."
 
     },
+
+{
+    
+      "Role Model": "Mark Twain",
+
+      "Quotes": "If you tell the truth, you don't have to remember anything."
+    },
+{
+    "Role Model": "Jim Rohn",
+
+      "Quotes": "Happiness is not by chance,but by choice"
+}
+]
