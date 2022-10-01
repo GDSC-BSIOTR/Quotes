@@ -85,19 +85,23 @@
 
     {
       "Role Model": "A.P.J Abdul Kalam",
-      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action",
+      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
     },
     {
       "Role Model": "Issac Newton",
+      "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people"
+    },
+        
+    {
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people",
     }
         {
       "Role Model": "Swami Vivekanand",
-      "Quotes": "Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts",
+      "Quotes": "Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts"
     },
     {
       "Role model": "My dad",
-      "Quotes": "Believe in comebacks, rather than setbacks",
+      "Quotes": "Believe in comebacks, rather than setbacks"
     },
         
 }
@@ -225,7 +229,7 @@
 
      {
       "Role Model": " Pablo Picasso",
-      "Quotes": "Inspiration does exist, but it must find you working.”
+      "Quotes": "Inspiration does exist, but it must find you working."
     },
  
 
@@ -254,7 +258,7 @@
 
 
     {
-        "Role Model": "Sandeep Maheshwari"
+        "Role Model": "Sandeep Maheshwari",
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
 
@@ -270,28 +274,19 @@
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
     },
-
-      "Role Model": "Leonardo da Vincim"
+    {
+      "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
     } ,   
   {
-        "Role Model": "steve jobs"
+        "Role Model": "steve jobs",
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
         },
+        {
+        "Role Model":"Dr. Christian Barnard",
         "Quotes": "The buisness of living is the celebration of being alive"
-        },
-    
-    
-    },
-
- 
+        },  
         
-        
-           
-        
-
- 
-
         {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
@@ -317,7 +312,7 @@
 
 
     {
-        "Role Model": "Sandeep Maheshwari"
+        "Role Model": "Sandeep Maheshwari",
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
 
@@ -332,14 +327,13 @@
 
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
-    }
-
-      "Role Model": "Leonardo da Vincim"
+    },
+{
+      "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    },  
-    }    
+    },    
   {
-        "Role Model": "steve jobs"
+        "Role Model": "steve jobs",
         "Quotes": "The buisness of living is the celebration of being alive"
         },
         
@@ -348,19 +342,16 @@
       "Quotes": "Be the change that you wish to see in the world..."
         },
 
-    }
-
-     {
+    {
       "Role Model": " Pablo Picasso",
-      "Quotes": "Inspiration does exist, but it must find you working.”
-    }
-
+      "Quotes": "Inspiration does exist, but it must find you working."
+    },
  
 
         {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
-    }
+    },
 {
       "Role Model": "Ralph Waldo Emerson",
       "Quotes": "Life is a journey not a destination."
@@ -368,14 +359,14 @@
       {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
-    }
+    },
         
 
 
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
-    }
+    },
 
        
        
@@ -405,7 +396,7 @@
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
     }
-
+      {"Role Model": "Leonardo da Vincim",
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
     }    
@@ -417,7 +408,7 @@
         "Role Model": "Bill Watterson"
         "Quotes": "You know, Hobbes, some days even my lucky rocketship underpants don't help."
         },
-        ]
+
 }
     {
       "Role Model": "Ravindranath tagore",
@@ -428,7 +419,7 @@
     {
         "Role Model": "steve jobs"
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
-        }
+        },
 
     {
       "Role Model": "Elon Musk",
@@ -468,7 +459,7 @@
     },
 {
     "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile.",
+        "Quotes": "Smile to change the world, Don't let the world change your smile."
 } ,    
 {
       "Role Model": "MS DHONI",
@@ -490,7 +481,7 @@
 },
  {
     "Role Model": "APJ KALAM",
-    "Quotes": "First Attempt In Learning".
+    "Quotes": "First Attempt In Learning"
 },
    "Role model " : "PRIYADARSHAN",
     "Quotes" : " hindi filmo ki taraha life main bhi,anth main sab kuch thik hi ho jata hai , aur agar thik na ho toh woh anth nhi picture abhi baki hai mere dost"
@@ -501,50 +492,53 @@
 },
 {
     "Role Model": "J.K. Rowling",
-    "Quotes": "“It matters not what someone is born, but what they grow to be.”".
+    "Quotes": "It matters not what someone is born, but what they grow to be."
 },
 {
     "Role Model": "Priyanka Chopra",
-    "Quotes": " “No matter where you go in life or who you get married to, you have to be financially independent, whether you use it or not.”"
+    "Quotes": " No matter where you go in life or who you get married to, you have to be financially independent, whether you use it or not."
 },
 
 {
     "Role Model": "vishwas Nangre patil",
-    "Quotes": "“Focus on the possibilities for success”".
+    "Quotes": "“Focus on the possibilities for success”"
 },
 {
     "Role Model": "Eleanor Roosevelt",
-    "Quotes": "If life were predictable it would cease to be life, and be without flavor.".
+    "Quotes": "If life were predictable it would cease to be life, and be without flavor."
 },
 
 {
     "Role Model": "M S Dhoni",
-    "Quotes": "“keep calm whatever the situation is”".
+    "Quotes": "“keep calm whatever the situation is”"
 },
 
 
 {
     "Role Model": "Alan Turing",
-    "Quotes": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human".
+    "Quotes": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"
 },
 
 
 {
     "Role Model": "Oscar Wilde",
-    "Quotes": "“Be yourself; everyone else is already taken.”".
+    "Quotes": "“Be yourself; everyone else is already taken.”"
 },
 {
 
     "Role Model": "C.S.Lewis",
-    "Quotes": "Atheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning.".
+    "Quotes": "Atheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning."
 },
 
 {
     "Role Model": "APJ Abdul Kalam",
     "Quotes": "creativity is seeing the samething but thinking diffenrtly. ".
 },
-]
-
+{
+    "Role Model": "Ralph Waldo Emerson",
+    "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+ {
     "Role Model": "Ralph Waldo Emerson,
     "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail.".
 },
@@ -571,6 +565,14 @@
 
       "Quotes": "If you tell the truth, you don't have to remember anything."
     },
+    {
+    
+      "Role Model": "Maya Angelou",
+
+      "Quotes": "You will face many defeats in life, but never let yourself to be defeated."
+    }
+
+
 {
     "Role Model": "Jim Rohn",
 
