@@ -6,16 +6,16 @@
 },
         
     {
-        "Role Model": "steve jobs"
+        "Role Model": "steve jobs",
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
         }
 
     {
-        "Role Model": "Sandeep Maheshwari"
+        "Role Model": "Sandeep Maheshwari",
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
 {
-        "Role Model": "Sandeep Maheshwari"
+        "Role Model": "Sandeep Maheshwari",
         "Quotes": "A professional writer is an amateur who didn’t quit."
         },
 
@@ -23,26 +23,18 @@
         
         
         {
-      "Role Model": "Leonardo da Vincim"
+      "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
 
     } 
 {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-    }
-}
-    }    
+    },    
   {
-        "Role Model": "steve jobs"
+        "Role Model": "steve jobs",
         "Quotes": "The buisness of living is the celebration of being alive"
         },
-
-        ]
-
-}
-
-}
 
 
 
@@ -75,8 +67,7 @@
     {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-
-
+},
 
     {
       "Role Model": "Mary Kom",
@@ -113,14 +104,14 @@
       "Quotes": "Believe in comebacks, rather than setbacks"
     },
         
-}
+{
       "Role Model": "Sachin Tendulkar",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
     }
-}
+{
 
       "Role Model": "Dr.A.P.J Abdul Kalam",
-      "Quotes": ""Dream,Dream,Dream.Dreams Transform into thoughts and thoughts result in action."
+      "Quotes": "Dream,Dream,Dream.Dreams Transform into thoughts and thoughts result in action."
     }
       {
       "Role Model": "Sundar pichai",
@@ -149,16 +140,15 @@
       "Role Model": "John Wooden",
       "Quotes": "Being a role model is the most powerful form of educating."
 
-    }
+    },
     {
       "Role Model": "Rosa Parks",
       "Quotes": "Each person must live their life as a model for others"
      },
      {
       "Role Model": "Rowan Atkinson",
-      "Quotes": "But I always feel that whatever I do, Could do better. Suppose it is perfectionism.
-    }
-}
+      "Quotes": "But I always feel that whatever I do, Could do better. Suppose it is perfectionism."
+    },
         {
       "Role Model": "J. K. Rowling",
       "Quotes": "It does not dwell on dreams and forget to live."
@@ -166,14 +156,13 @@
 {
       "Role Model": "A.P.J Abdul Kalam",
       "Quotes": "Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
-    }
-},
+  },
         
     {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
 
-
+},
 
     {
       "Role Model": "Mary Kom",
@@ -210,7 +199,7 @@
 
     {
       "Role Model": "A.P.J Abdul Kalam",
-      "Quotes": If you fail, never give up because FAIL means "First Attempt In Learning"
+      "Quotes": "If you fail, never give up because FAIL means 'First Attempt In Learning'"
     }
 
 
@@ -222,7 +211,7 @@
     },
 
 {
-      "Role Model": "Adolf Hitler"
+      "Role Model": "Adolf Hitler",
       "Quotes": "Never Trust a Person, who isn't having atleast one crises"
     }
     
@@ -386,7 +375,7 @@
 
 
     {
-        "Role Model": "Sandeep Maheshwari"
+        "Role Model": "Sandeep Maheshwari",
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
 
@@ -401,24 +390,22 @@
       "Role Model": "Average Jignesh",
       "Quotes": "Thats what she said"
     },
+    {
 
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
-    }
+    },
       {"Role Model": "Leonardo da Vincim",
-      "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    }    
+    } ,   
   {
-        "Role Model": "steve jobs"
+        "Role Model": "steve jobs",
         "Quotes": "The buisness of living is the celebration of being alive"
         },
    {
-        "Role Model": "Bill Watterson"
+        "Role Model": "Bill Watterson",
         "Quotes": "You know, Hobbes, some days even my lucky rocketship underpants don't help."
         },
-
-}
     {
       "Role Model": "Ravindranath tagore",
       "Quotes": "love's gift cannot be given, it waits to be accepted."
@@ -426,7 +413,7 @@
     
     
     {
-        "Role Model": "steve jobs"
+        "Role Model": "steve jobs",
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
         },
 
@@ -436,13 +423,12 @@
     },
 
    {
-      "Role Model": "Marilyn Monroe"
+      "Role Model": "Marilyn Monroe",
       "Quotes": "I think there’s two things in human beings…that they want to be alone, but they also want to be together."
     },    
-        ]
 
     {
-        "Role Model": "Sandeep Maheshwari"
+        "Role Model": "Sandeep Maheshwari",
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
 
@@ -452,7 +438,7 @@
     },
     {
         "Role Model": "Steve Jobs",
-        "Quotes"; "Stay Hungry, Stay Foolish"
+        "Quotes": "Stay Hungry, Stay Foolish"
     },
         ]
 }
@@ -541,15 +527,15 @@
 
 {
     "Role Model": "APJ Abdul Kalam",
-    "Quotes": "creativity is seeing the samething but thinking diffenrtly. ".
+    "Quotes": "creativity is seeing the samething but thinking diffenrtly. "
 },
 {
     "Role Model": "Ralph Waldo Emerson",
     "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
   },
  {
-    "Role Model": "Ralph Waldo Emerson,
-    "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail.".
+    "Role Model": "Ralph Waldo Emerson",
+    "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
 },
 
 
@@ -579,7 +565,7 @@
       "Role Model": "Maya Angelou",
 
       "Quotes": "You will face many defeats in life, but never let yourself to be defeated."
-    }
+    },
 
 
 {
@@ -591,5 +577,21 @@
   "Role Model": "Walt Disney",
   "Quotes": "The way to get started is to quit talking and begin doing"
 },
+{
+  "Role Model": "Confucius",
+  "Quotes": "It does not matter how slowly you go as long as you do not stop."
+},
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
