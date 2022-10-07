@@ -631,11 +631,14 @@
 {
   "Role Model": "Oscar Wilde",
   "Quotes": "Be yourself; everyone else is already taken."
-}          
 }, 
 {
   "Role Model": "JK Rowling",
   "Quotes": "It is our choices that show what we truly are, far more than our abilities."
-}     
+},
+{
+  "Role Model": "Winston Churchill",
+  "Quotes": "Attitude is a little thing that makes a big difference"
+}
 ]
 }
