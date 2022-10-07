@@ -631,7 +631,6 @@
 {
   "Role Model": "Oscar Wilde",
   "Quotes": "Be yourself; everyone else is already taken."
-}          
 }, 
 {
   "Role Model": "JK Rowling",
@@ -640,6 +639,10 @@
 {
     "Role Model": "Eleanor Roosevelt,",
     "Quotes": "The future belongs to those who believe in the beauty of their dreams."
+   },
+   {
+  "Role Model": "Winston Churchill",
+  "Quotes": "Attitude is a little thing that makes a big difference"
 }
 ]
 }
