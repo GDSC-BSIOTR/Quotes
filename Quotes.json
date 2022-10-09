@@ -652,9 +652,11 @@
   "Role Model": "Walt disney",
   "Quotes": "The way to get started is to quit talking and begin doing "
 }
-
-]
+        {
+  "Role Model": "JONATHAN WINTERS",
+  "Quotes": "If your ship doesn't come in,swim out to it!"
 }
+
 {
   "Role Model": "Gandhi",
   "Quotes": "Non Violence is a weapon of strong"
