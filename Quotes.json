@@ -652,17 +652,25 @@
   "Role Model": "Dale Carnegie",
   "Quotes": "People rarely succeed unless they have fun in what they are doing."
 
-   }
+   },
    {
   "Role Model": "Walt disney",
   "Quotes": "The way to get started is to quit talking and begin doing "
 
-}
+},
         {
   "Role Model": "JONATHAN WINTERS",
   "Quotes": "If your ship doesn't come in,swim out to it!"
-}
+},
 
 {
   "Role Model": "Gandhi",
   "Quotes": "Non Violence is a weapon of strong"
+},
+{
+  "Role Model": "Buddha",
+  "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+}
+]
+}
+
