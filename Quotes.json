@@ -1,120 +1,93 @@
 {
-    "thought / Quotes ": [
-      { 
-        "Role Model": "Isac Newton",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Duplicate Sizes"
-},
-        
+  "thought / Quotes ": [
     {
-        "Role Model": "steve jobs",
-        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
-        },
-
+      "Role Model": "Isac Newton",
+      "Quotes": "The Mind that Opens to a New Ideas Never returns to its Duplicate Sizes"
+    },
     {
-        "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-        },
-{
-        "Role Model": "Sandeep Maheshwari",
-        "Quotes": "A professional writer is an amateur who didn’t quit."
-        },
-
-        
-        
-        
-        {
+      "Role Model": "steve jobs",
+      "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
+    },
+    {
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "Smile to change the world, Don't let the world change your smile."
+    },
+    {
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "A professional writer is an amateur who didn’t quit."
+    },
+    {
       "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-
-    }, 
-{
-      "Role Model": "Chhatrapati Shivaji Maharaj",
-      "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-    },    
-  {
-        "Role Model": "steve jobs",
-        "Quotes": "The buisness of living is the celebration of being alive"
-        },
-
-
-        {
-            "Role Model":"Murphy law",
-            "Quotes": "Anything that can go wrong will go wrong, and at the worst possible time."
-        },
-        
-        {
-            "Role Model":"Kidlin's  law",
-            "Quotes":"If you can write down the problem clearly, it is half solved."
-        },
-        
-        {
-        
-        "Role Model":"Walsons law",
-        "Quotes":"If you keep putting information and intelligence first at all the time, money keeps coming in."
-        },
-
-{
-    "Role Model": "David Allen",
-    "Quotes": "If it takes less than 2 mintues, then do it now."
-},
-
-{
-    "Role Model": "Marian Wright Edelman",
-    "Quotes":"Failure is just another way to learn how to do something right."
-},
-
-
-{
-      "Role Model": "A.P.J shaikh Kalam",
-      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
-
     },
-        {
-
-      "Role Model": "Stephen King",
-
-      "Quotes": "I try to create sympathy for my characters, then turn the monsters loose."
-
-},
-{
-  "Role Model": " Edward A. Murphy",
-  "Quotes": "It's not a bug, it's an undocumented feature."
-},
-
-{
-  "Role Model": "Henry Ford",
-  "Quotes": "If everyone is moving forward together, then success takes care of itself."
-},
-
-{
-  "Role Model": "Issac Assimov",
-  "Quotes": "I do not fear computers. I fear the lack of them."
-},
-
-{
-  "Role Model": "Franklin D. Roosevelt",
-  "Quotes": "The only thing we have to fear is fear itself."
-},
-        
     {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-},
-
+    },
+    {
+      "Role Model": "steve jobs",
+      "Quotes": "The buisness of living is the celebration of being alive"
+    },
+    {
+      "Role Model": "Murphy law",
+      "Quotes": "Anything that can go wrong will go wrong, and at the worst possible time."
+    },
+    {
+      "Role Model": "Kidlin's  law",
+      "Quotes": "If you can write down the problem clearly, it is half solved."
+    },
+    {
+      "Role Model": "Walsons law",
+      "Quotes": "If you keep putting information and intelligence first at all the time, money keeps coming in."
+    },
+    {
+      "Role Model": "David Allen",
+      "Quotes": "If it takes less than 2 mintues, then do it now."
+    },
+    {
+      "Role Model": "Marian Wright Edelman",
+      "Quotes": "Failure is just another way to learn how to do something right."
+    },
+    {
+      "Role Model": "A.P.J shaikh Kalam",
+      "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
+    },
+    {
+      "Role Model": "Stephen King",
+      "Quotes": "I try to create sympathy for my characters, then turn the monsters loose."
+    },
+    {
+      "Role Model": " Edward A. Murphy",
+      "Quotes": "It's not a bug, it's an undocumented feature."
+    },
+    {
+      "Role Model": "Henry Ford",
+      "Quotes": "If everyone is moving forward together, then success takes care of itself."
+    },
+    {
+      "Role Model": "Issac Assimov",
+      "Quotes": "I do not fear computers. I fear the lack of them."
+    },
+    {
+      "Role Model": "Franklin D. Roosevelt",
+      "Quotes": "The only thing we have to fear is fear itself."
+    },
+    {
+      "Role Model": "Chhatrapati Shivaji Maharaj",
+      "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
+    },
     {
       "Role Model": "Mary Kom",
       "Quotes": "Never buy gold, simply earn it"
     },
-            {
+    {
       "Role Model": "Ralph Waldo Emerson",
       "Quotes": "Life is a journey,not a destination."
     },
-        { 
-        "Role Model": "Albert Einstein",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+    {
+      "Role Model": "Albert Einstein",
+      "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
     },
-
     {
       "Role Model": "A.P.J Abdul Kalam",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
@@ -123,16 +96,14 @@
       "Role Model": "Issac Newton",
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people"
     },
-        
     {
       "Role Model": "Aayan Srivastava",
       "Quotes": "Live the life fullest with no thinking of what will happen in future"
     },
-        
     {
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people"
     },
-        {
+    {
       "Role Model": "Swami Vivekanand",
       "Quotes": "Success is Not Final, Failure is Not Fatal: it is the Courage to Continue that Counts"
     },
@@ -140,570 +111,457 @@
       "Role model": "My dad",
       "Quotes": "Believe in comebacks, rather than setbacks"
     },
-        
-{
+    {
       "Role Model": "Sachin Tendulkar",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
     },
-{
-
+    {
       "Role Model": "Dr.A.P.J Abdul Kalam",
       "Quotes": "Dream,Dream,Dream.Dreams Transform into thoughts and thoughts result in action."
     },
-      {
+    {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
     },
-        
-{ 
-        "Role Model": "harshad Einstein",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+    {
+      "Role Model": "harshad Einstein",
+      "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
     },
- 
-    
-
     {
       "Role Model": "A.P.J shaikh Kalam",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
     },
-
-         {
+    {
       "Role Model": "Paulo Coelho",
       "Quotes": "When we strive to become better than we are, everything around us becomes better too."
     },
-
     {
-
       "Role Model": "John Wooden",
       "Quotes": "Being a role model is the most powerful form of educating."
-
     },
     {
       "Role Model": "Rosa Parks",
       "Quotes": "Each person must live their life as a model for others"
-     },
-     {
+    },
+    {
       "Role Model": "Rowan Atkinson",
       "Quotes": "But I always feel that whatever I do, Could do better. Suppose it is perfectionism."
     },
-        {
+    {
       "Role Model": "J. K. Rowling",
       "Quotes": "It does not dwell on dreams and forget to live."
     },
-{
+    {
       "Role Model": "A.P.J Abdul Kalam",
       "Quotes": "Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
-  },
-        
+    },
     {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-
-},
-
+    },
     {
       "Role Model": "Mary Kom",
       "Quotes": "Never buy gold, simply earn it"
     },
-            {
+    {
       "Role Model": "Ralph Waldo Emerson",
       "Quotes": "Life is a journey,not a destination."
     },
-         {
+    {
       "Role Model": "Michael jordan",
       "Quotes": "The key to success is failure"
     },
-    
-   {
-    "Role Model":"Maya Angelou",
-    "Quotes":"You will face many defeats in life, but never let yourself be defeated" 
-   },
-
-{ 
-        "Role Model": "coloumb",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+    {
+      "Role Model": "Maya Angelou",
+      "Quotes": "You will face many defeats in life, but never let yourself be defeated"
+    },
+    {
+      "Role Model": "coloumb",
+      "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
     },
     {
       "Role Model": "alard hattis",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
     },
-   
-
-
- {
+    {
       "Role Model": "Narendra modi",
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people."
     },
-
     {
       "Role Model": "A.P.J Abdul Kalam",
       "Quotes": "If you fail, never give up because FAIL means 'First Attempt In Learning'"
     },
-
-
-
-
- {
+    {
       "Role Model": "Average Jignesh",
       "Quotes": "Thats what she said :["
     },
-
-{
+    {
       "Role Model": "Adolf Hitler",
       "Quotes": "Never Trust a Person, who isn't having atleast one crises"
     },
-    
-    
-    
-    
-    {   
-     "Role Model": "mahatma gandhi",
+    {
+      "Role Model": "mahatma gandhi",
       "Quotes": "Be the change that you wish to see in the world..."
-        },
-
-     {
+    },
+    {
       "Role Model": " Pablo Picasso",
       "Quotes": "Inspiration does exist, but it must find you working."
     },
- 
-
-        {
+    {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
     },
-      {
+    {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
     },
-        
-
-
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
     },
-
-       
-       
-{
+    {
       "Role Model": "SWAMI VIVEKANAD",
       "Quotes": "YOU ARE THE CREATOR OF YOUR OWN DESTINY"
     },
-
-
     {
-        "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-        },
-
-{
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "Smile to change the world, Don't let the world change your smile."
+    },
+    {
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
     },
-
-
-
-{
-
+    {
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
     },
     {
       "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    } ,   
-  {
-        "Role Model": "steve jobs",
-        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
-        },
-        {
-        "Role Model":"Dr. Christian Barnard",
-        "Quotes": "The buisness of living is the celebration of being alive"
-        },  
-        
-        {
+    },
+    {
+      "Role Model": "steve jobs",
+      "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
+    },
+    {
+      "Role Model": "Dr. Christian Barnard",
+      "Quotes": "The buisness of living is the celebration of being alive"
+    },
+    {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
     },
-      {
+    {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
     },
-        
-
-
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
     },
-
-       
-       
-{
+    {
       "Role Model": "SWAMI VIVEKANAD",
       "Quotes": "YOU ARE THE CREATOR OF YOUR OWN DESTINY"
     },
-
-
     {
-        "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-        },
-
-{
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "Smile to change the world, Don't let the world change your smile."
+    },
+    {
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
     },
-
-
-
-{
-
+    {
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
     },
-{
+    {
       "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    },    
-  {
-        "Role Model": "steve jobs",
-        "Quotes": "The buisness of living is the celebration of being alive"
-        },
-        
-        {   
-     "Role Model": "mahatma gandhi",
+    },
+    {
+      "Role Model": "steve jobs",
+      "Quotes": "The buisness of living is the celebration of being alive"
+    },
+    {
+      "Role Model": "mahatma gandhi",
       "Quotes": "Be the change that you wish to see in the world..."
-        },
-
+    },
     {
       "Role Model": " Pablo Picasso",
       "Quotes": "Inspiration does exist, but it must find you working."
     },
- 
-
-        {
+    {
       "Role Model": "APJ Abdul kalam",
       "Quotes": "If you want to shine like a sun, first burn like a sun."
     },
-{
+    {
       "Role Model": "Ralph Waldo Emerson",
       "Quotes": "Life is a journey not a destination."
     },
-      {
+    {
       "Role Model": "Sundar pichai",
       "Quotes": "Always stay positive"
     },
-        
-
-
     {
       "Role Model": "Ratan Tata",
       "Quotes": "I don't make decisions right I make my decisions right "
     },
-
-       
-       
-{
+    {
       "Role Model": "SWAMI VIVEKANAD",
       "Quotes": "YOU ARE THE CREATOR OF YOUR OWN DESTINY"
     },
-
-
     {
-        "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-        },
-
-{
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "Smile to change the world, Don't let the world change your smile."
+    },
+    {
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
     },
-
-
-
-{
+    {
       "Role Model": "Average Jignesh",
       "Quotes": "Thats what she said"
     },
     {
-
       "Role Model": "Shiv Khera",
       "Quotes": "Winners don't do different things, they do things differently"
     },
-      {"Role Model": "Leonardo da Vincim",
+    {
+      "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    } ,   
-  {
-        "Role Model": "steve jobs",
-        "Quotes": "The buisness of living is the celebration of being alive"
-        },
-   {
-        "Role Model": "Bill Watterson",
-        "Quotes": "You know, Hobbes, some days even my lucky rocketship underpants don't help."
-        },
+    },
+    {
+      "Role Model": "steve jobs",
+      "Quotes": "The buisness of living is the celebration of being alive"
+    },
+    {
+      "Role Model": "Bill Watterson",
+      "Quotes": "You know, Hobbes, some days even my lucky rocketship underpants don't help."
+    },
     {
       "Role Model": "Ravindranath tagore",
       "Quotes": "love's gift cannot be given, it waits to be accepted."
     },
-    
-    
     {
-        "Role Model": "steve jobs",
-        "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
-        },
-
+      "Role Model": "steve jobs",
+      "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
+    },
     {
       "Role Model": "Elon Musk",
       "Quotes": "When something is important enough, you do it even if the odds are not in your favour."
     },
-
-   {
+    {
       "Role Model": "Marilyn Monroe",
       "Quotes": "I think there's two things in human beings…that they want to be alone, but they also want to be together."
-    },    
-
+    },
     {
-        "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-        },
-
-{
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "Smile to change the world, Don't let the world change your smile."
+    },
+    {
       "Role Model": "Douglas Adams",
       "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
     },
     {
-        "Role Model": "Steve Jobs",
-        "Quotes": "Stay Hungry, Stay Foolish"
+      "Role Model": "Steve Jobs",
+      "Quotes": "Stay Hungry, Stay Foolish"
     },
-
-{
+    {
       "Role Model": "F. SCOTT FITZGERALD",
       "Quotes": "Tomorrow we will run faster, stretch out our arms farther…."
-},
-
-{
+    },
+    {
       "Role Model": "My Mom",
       "Quotes": "Time is the King"
     },
-{
-    "Role Model": "Sandeep Maheshwari",
-        "Quotes": "Smile to change the world, Don't let the world change your smile."
-} ,    
-{
+    {
+      "Role Model": "Sandeep Maheshwari",
+      "Quotes": "Smile to change the world, Don't let the world change your smile."
+    },
+    {
       "Role Model": "MS DHONI",
       "Quotes": "You don't play for the crowd ,you play for the country."
     },
-{
+    {
       "Role Model": "MS DHONI",
       "Quotes": "You don't play for the crowd ,you play for the country."
     },
-{
-    "Role Model": "Aristotele",
-    "Quotes": "Hope is a waking dream"
-},
-
-
-{
-    "Role Model": "Elon Musk",
-    "Quotes": "When something is important enough, you do it even if the odds are not in your favor."
-},
- {
-    "Role Model": "APJ KALAM",
-    "Quotes": "First Attempt In Learning"
-},
-{
-   "Role model " : "PRIYADARSHAN",
-    "Quotes" : " hindi filmo ki taraha life main bhi,anth main sab kuch thik hi ho jata hai , aur agar thik na ho toh woh anth nhi picture abhi baki hai mere dost"
-},
-{
-"Role model " : "Monkey D. Luffy",
- "Quotes" : " Power isn't determined by your size, but the size of your heart and dreams!"
-},
-{
-    "Role Model": "J.K. Rowling",
-    "Quotes": "It matters not what someone is born, but what they grow to be."
-},
-{
-    "Role Model": "Priyanka Chopra",
-    "Quotes": " No matter where you go in life or who you get married to, you have to be financially independent, whether you use it or not."
-},
-
-{
-    "Role Model": "vishwas Nangre patil",
-    "Quotes": "“Focus on the possibilities for success”"
-},
-{
-    "Role Model": "Eleanor Roosevelt",
-    "Quotes": "If life were predictable it would cease to be life, and be without flavor."
-},
-
-{
-    "Role Model": "M S Dhoni",
-    "Quotes": "“keep calm whatever the situation is”"
-},
-
-
-{
-    "Role Model": "Alan Turing",
-    "Quotes": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"
-},
-
-
-{
-    "Role Model": "Oscar Wilde",
-    "Quotes": "“Be yourself; everyone else is already taken.”"
-},
-{
-
-    "Role Model": "C.S.Lewis",
-    "Quotes": "Atheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning."
-},
-
-{
-    "Role Model": "APJ Abdul Kalam",
-    "Quotes": "creativity is seeing the samething but thinking diffenrtly. "
-},
-{
-    "Role Model": "Ralph Waldo Emerson",
-    "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
-  },
- {
-    "Role Model": "Ralph Waldo Emerson",
-    "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
-},
-
-
-{
-
+    {
+      "Role Model": "Aristotele",
+      "Quotes": "Hope is a waking dream"
+    },
+    {
+      "Role Model": "Elon Musk",
+      "Quotes": "When something is important enough, you do it even if the odds are not in your favor."
+    },
+    {
+      "Role Model": "APJ KALAM",
+      "Quotes": "First Attempt In Learning"
+    },
+    {
+      "Role model ": "PRIYADARSHAN",
+      "Quotes": " hindi filmo ki taraha life main bhi,anth main sab kuch thik hi ho jata hai , aur agar thik na ho toh woh anth nhi picture abhi baki hai mere dost"
+    },
+    {
+      "Role model ": "Monkey D. Luffy",
+      "Quotes": " Power isn't determined by your size, but the size of your heart and dreams!"
+    },
+    {
+      "Role Model": "J.K. Rowling",
+      "Quotes": "It matters not what someone is born, but what they grow to be."
+    },
+    {
+      "Role Model": "Priyanka Chopra",
+      "Quotes": " No matter where you go in life or who you get married to, you have to be financially independent, whether you use it or not."
+    },
+    {
+      "Role Model": "vishwas Nangre patil",
+      "Quotes": "“Focus on the possibilities for success”"
+    },
+    {
+      "Role Model": "Eleanor Roosevelt",
+      "Quotes": "If life were predictable it would cease to be life, and be without flavor."
+    },
+    {
+      "Role Model": "M S Dhoni",
+      "Quotes": "“keep calm whatever the situation is”"
+    },
+    {
+      "Role Model": "Alan Turing",
+      "Quotes": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"
+    },
+    {
+      "Role Model": "Oscar Wilde",
+      "Quotes": "“Be yourself; everyone else is already taken.”"
+    },
+    {
+      "Role Model": "C.S.Lewis",
+      "Quotes": "Atheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning."
+    },
+    {
+      "Role Model": "APJ Abdul Kalam",
+      "Quotes": "creativity is seeing the samething but thinking diffenrtly. "
+    },
+    {
+      "Role Model": "Ralph Waldo Emerson",
+      "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+    },
+    {
+      "Role Model": "Ralph Waldo Emerson",
+      "Quotes": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+    },
+    {
       "Role Model": "Bill Watterson",
-
       "Quotes": "You know, Hobbes, some days even my lucky rocketship underpants don't help."
-
     },
-{
-
+    {
       "Role Model": "Stephen King",
-
       "Quotes": "Get busy living or get busy dying."
-
     },
-
-{
-    
+    {
       "Role Model": "Mark Twain",
-
       "Quotes": "If you tell the truth, you don't have to remember anything."
     },
     {
-    
       "Role Model": "Maya Angelou",
-
       "Quotes": "You will face many defeats in life, but never let yourself to be defeated."
     },
-
-
-{
-    "Role Model": "Jim Rohn",
-
+    {
+      "Role Model": "Jim Rohn",
       "Quotes": "Happiness is not by chance,but by choice"
-},
-{
-  "Role Model": "Walt Disney",
-  "Quotes": "The way to get started is to quit talking and begin doing"
-},
-{
-  "Role Model": "Confucius",
-  "Quotes": "It does not matter how slowly you go as long as you do not stop."
-},
-{
-  "Role Model": "Nelson Mandela",
-  "Quotes": "It always seems impossible until it's done."
-},
-{
-  "Role Model": "Alfred Adler",
-  "Quotes": "Overcoming difficulties leads to courage, self-respect and knowing yourself."
-},
- {
-  "Role Model": "Octavia E. Butler",
-  "Quotes": "You don’t start out writing good stuff. You start out writing crap and thinking it’s good stuff, and then gradually you get better at it."
-
-},       
-{
-  "Role Model": "Isaac Asimov",
-  "Quotes": "It is not only the living who are killed in war."
-},
-{
-  "Role Model": "Winston Churchill",
-  "Quotes": "Solitary trees, if they grow at all, grow strong."
-
-},
-{
-  "Role Model": "Allama Iqbal",
-  "Quotes":"People who have not hold over the process of their thinking are likely tobe ruined by liberty of thought.If thought is immature,liberty of thought becomes a method of converting men into animals."
-},
-
-{
-  "Role Model": "Warren Buffett",
-  "Quotes": "Price is what you pay, Value is what you get!"
-},
-{
-  "Role Model": "APJ Abdul Kalam",
-  "Quotes": "Dream is not that which you see while sleeping it is something that does not let you sleep."
-},
-{
-  "Role Model": " Frank Sinatra",
-  "Quotes": "The big lesson in life, baby, is never be scared of anyone or anything."
-
-},
-{
-  "Role Model": "Oscar Wilde",
-  "Quotes": "Be yourself; everyone else is already taken."
-},
-{
-  "Role Model": "Sundar Pichai",
-  "Quotes": "As a leader, it is important to not just see your success but focus on the success of others."
-},        
-{
-  "Role Model": "JK Rowling",
-  "Quotes": "It is our choices that show what we truly are, far more than our abilities."
-},
-{
-    "Role Model": "Eleanor Roosevelt,",
-    "Quotes": "The future belongs to those who believe in the beauty of their dreams."
-   },
-   {
-  "Role Model": "Winston Churchill",
-  "Quotes": "Attitude is a little thing that makes a big difference"
-},
-           {
-  "Role Model": "Dale Carnegie",
-  "Quotes": "People rarely succeed unless they have fun in what they are doing."
-
-   },
-   {
-  "Role Model": "Walt disney",
-  "Quotes": "The way to get started is to quit talking and begin doing "
-
-},
-        {
-  "Role Model": "JONATHAN WINTERS",
-  "Quotes": "If your ship doesn't come in,swim out to it!"
-},
-
-{
-  "Role Model": "Gandhi",
-  "Quotes": "Non Violence is a weapon of strong"
-},
-{
-    "Role Model" : "Albert Einstein"
-    "Quotes" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
-},
-{
-  "Role Model": "Buddha",
-  "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+    },
+    {
+      "Role Model": "Walt Disney",
+      "Quotes": "The way to get started is to quit talking and begin doing"
+    },
+    {
+      "Role Model": "Confucius",
+      "Quotes": "It does not matter how slowly you go as long as you do not stop."
+    },
+    {
+      "Role Model": "Nelson Mandela",
+      "Quotes": "It always seems impossible until it's done."
+    },
+    {
+      "Role Model": "Alfred Adler",
+      "Quotes": "Overcoming difficulties leads to courage, self-respect and knowing yourself."
+    },
+    {
+      "Role Model": "Octavia E. Butler",
+      "Quotes": "You don’t start out writing good stuff. You start out writing crap and thinking it’s good stuff, and then gradually you get better at it."
+    },
+    {
+      "Role Model": "Isaac Asimov",
+      "Quotes": "It is not only the living who are killed in war."
+    },
+    {
+      "Role Model": "Winston Churchill",
+      "Quotes": "Solitary trees, if they grow at all, grow strong."
+    },
+    {
+      "Role Model": "Allama Iqbal",
+      "Quotes": "People who have not hold over the process of their thinking are likely tobe ruined by liberty of thought.If thought is immature,liberty of thought becomes a method of converting men into animals."
+    },
+    {
+      "Role Model": "Warren Buffett",
+      "Quotes": "Price is what you pay, Value is what you get!"
+    },
+    {
+      "Role Model": "APJ Abdul Kalam",
+      "Quotes": "Dream is not that which you see while sleeping it is something that does not let you sleep."
+    },
+    {
+      "Role Model": " Frank Sinatra",
+      "Quotes": "The big lesson in life, baby, is never be scared of anyone or anything."
+    },
+    {
+      "Role Model": "Oscar Wilde",
+      "Quotes": "Be yourself; everyone else is already taken."
+    },
+    {
+      "Role Model": "Sundar Pichai",
+      "Quotes": "As a leader, it is important to not just see your success but focus on the success of others."
+    },
+    {
+      "Role Model": "JK Rowling",
+      "Quotes": "It is our choices that show what we truly are, far more than our abilities."
+    },
+    {
+      "Role Model": "Eleanor Roosevelt,",
+      "Quotes": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+      "Role Model": "Winston Churchill",
+      "Quotes": "Attitude is a little thing that makes a big difference"
+    },
+    {
+      "Role Model": "Dale Carnegie",
+      "Quotes": "People rarely succeed unless they have fun in what they are doing."
+    },
+    {
+      "Role Model": "Walt disney",
+      "Quotes": "The way to get started is to quit talking and begin doing "
+    },
+    {
+      "Role Model": "JONATHAN WINTERS",
+      "Quotes": "If your ship doesn't come in,swim out to it!"
+    },
+    {
+      "Role Model": "Gandhi",
+      "Quotes": "Non Violence is a weapon of strong"
+    },
+    {
+      "Role Model": "Albert Einstein",
+      "Quotes": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+    },
+    {
+      "Role Model": "Buddha",
+      "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+    },
+    {
+      "Role Model": "Bradley Cooper",
+      "Quotes": "I think if you live in a black-and-white world, you're gonna suffer a lot. I used to be like that. But I don't believe that anymore."
+    }
+  ]
 }
-]
-}
-
-
