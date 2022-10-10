@@ -679,12 +679,16 @@
   "Quotes": "Opinion is the medium between knowledge and ignorance."
 },
 {
-    "Role Model" : "Oscar Wilde"
+    "Role Model" : "Oscar Wilde",
     "Quotes" : "To live is the rarest thing in the world. Most people exist, that is all."
 },
 {
   "Role Model": "Rembrandt van Rijn",
   "Quotes": "Painting is the grandchild of nature. It is related to God."
+},
+{
+  "Role Model": "Ernest Hemingway",
+  "Quotes": "You can't get away from yourself by moving from one place to another."
 }
 ]
 }
