@@ -1,4 +1,4 @@
-{
+﻿{
     "thought / Quotes ": [
       { 
         "Role Model": "Isac Newton",
@@ -685,6 +685,10 @@
 {
   "Role Model": "Rembrandt van Rijn",
   "Quotes": "Painting is the grandchild of nature. It is related to God."
+},
+{
+        "Role Model": "Nick Vujicic",
+        "Quotes": "If you can't get a miracle, become one."
 }
 ]
 }
