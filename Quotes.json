@@ -617,14 +617,9 @@
   "Role Model": "Allama Iqbal",
   "Quotes":"People who have not hold over the process of their thinking are likely tobe ruined by liberty of thought.If thought is immature,liberty of thought becomes a method of converting men into animals."
 },
-
 {
   "Role Model": "Warren Buffett",
   "Quotes": "Price is what you pay, Value is what you get!"
-},
-{
-  "Role Model": "APJ Abdul Kalam",
-  "Quotes": "Dream is not that which you see while sleeping it is something that does not let you sleep."
 },
 {
   "Role Model": " Frank Sinatra",
@@ -677,6 +672,19 @@
 {
   "Role Model": "Buddha",
   "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+}
+        
+{
+  "Role Model": "Plato",
+  "Quotes": "Opinion is the medium between knowledge and ignorance."
+},
+{
+    "Role Model" : "Oscar Wilde"
+    "Quotes" : "To live is the rarest thing in the world. Most people exist, that is all."
+},
+{
+  "Role Model": "Rembrandt van Rijn",
+  "Quotes": "Painting is the grandchild of nature. It is related to God."
 }
 ]
 }
