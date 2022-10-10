@@ -3,108 +3,83 @@
       { 
         "Role Model": "Isac Newton",
         "Quotes": "The Mind that Opens to a New Ideas Never returns to its Duplicate Sizes"
-},
-        
-    {
+       },
+        {
         "Role Model": "steve jobs",
         "Quotes": "“It has become appallingly obvious that our technology has exceeded our humanity.” ..."
         },
-
-    {
+        {
         "Role Model": "Sandeep Maheshwari",
         "Quotes": "Smile to change the world, Don't let the world change your smile."
         },
-{
+        {
         "Role Model": "Sandeep Maheshwari",
         "Quotes": "A professional writer is an amateur who didn’t quit."
         },
-
-        
-        
-        
         {
       "Role Model": "Leonardo da Vincim",
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-
-    }, 
-{
+        }, 
+        {
       "Role Model": "Chhatrapati Shivaji Maharaj",
       "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-    },    
-  {
+        },    
+        {
         "Role Model": "steve jobs",
         "Quotes": "The buisness of living is the celebration of being alive"
         },
-
-
         {
             "Role Model":"Murphy law",
             "Quotes": "Anything that can go wrong will go wrong, and at the worst possible time."
         },
-        
         {
             "Role Model":"Kidlin's  law",
             "Quotes":"If you can write down the problem clearly, it is half solved."
         },
-        
         {
-        
         "Role Model":"Walsons law",
         "Quotes":"If you keep putting information and intelligence first at all the time, money keeps coming in."
         },
-
-{
-    "Role Model": "David Allen",
-    "Quotes": "If it takes less than 2 mintues, then do it now."
-},
-
-{
-    "Role Model": "Marian Wright Edelman",
-    "Quotes":"Failure is just another way to learn how to do something right."
-},
-
-
-{
+        {
+         "Role Model": "David Allen",
+          "Quotes": "If it takes less than 2 mintues, then do it now."
+         },
+        {
+         "Role Model": "Marian Wright Edelman",
+         "Quotes":"Failure is just another way to learn how to do something right."
+        },
+        {
       "Role Model": "A.P.J shaikh Kalam",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
-
-    },
+        },
         {
-
-      "Role Model": "Stephen King",
-
-      "Quotes": "I try to create sympathy for my characters, then turn the monsters loose."
-
-},
-{
-  "Role Model": " Edward A. Murphy",
-  "Quotes": "It's not a bug, it's an undocumented feature."
-},
-
-{
-  "Role Model": "Henry Ford",
-  "Quotes": "If everyone is moving forward together, then success takes care of itself."
-},
-
-{
-  "Role Model": "Issac Assimov",
-  "Quotes": "I do not fear computers. I fear the lack of them."
-},
-
-{
-  "Role Model": "Franklin D. Roosevelt",
-  "Quotes": "The only thing we have to fear is fear itself."
-},
-        
-    {
-      "Role Model": "Chhatrapati Shivaji Maharaj",
-      "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
-},
-
-    {
-      "Role Model": "Mary Kom",
-      "Quotes": "Never buy gold, simply earn it"
-    },
+            "Role Model": "Stephen King",
+           "Quotes": "I try to create sympathy for my characters, then turn the monsters loose."
+        },
+        {
+         "Role Model": " Edward A. Murphy",
+         "Quotes": "It's not a bug, it's an undocumented feature."
+        },
+        {
+           "Role Model": "Henry Ford",
+          "Quotes": "If everyone is moving forward together, then success takes care of itself."
+        },
+        {
+         "Role Model": "Issac Assimov",
+         "Quotes": "I do not fear computers. I fear the lack of them."
+        },
+        {
+          "Role Model": "Franklin D. Roosevelt",
+         "Quotes": "The only thing we have to fear is fear itself."
+        },
+        {
+        "Role Model": "Chhatrapati Shivaji Maharaj",
+        "Quotes": "If a man has self-power, he can hoist the flag of victory over the whole world with this courage."
+        },
+        {
+        "Role Model": "Mary Kom",
+         "Quotes": "Never buy gold, simply earn it"
+        },
             {
       "Role Model": "Ralph Waldo Emerson",
       "Quotes": "Life is a journey,not a destination."
