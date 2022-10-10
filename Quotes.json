@@ -30,7 +30,38 @@
     {
       "Role Model": "steve jobs",
       "Quotes": "The buisness of living is the celebration of being alive"
-    },
+    },   
+  {
+        "Role Model": "steve jobs",
+        "Quotes": "The buisness of living is the celebration of being alive"
+        },
+
+
+        {
+            "Role Model":"Murphy law",
+            "Quotes": "Anything that can go wrong will go wrong, and at the worst possible time."
+        },
+        
+        {
+            "Role Model":"Kidlin's  law",
+            "Quotes":"If you can write down the problem clearly, it is half solved."
+        },
+        
+        {
+        
+        "Role Model":"Walsons law",
+        "Quotes":"If you keep putting information and intelligence first at all the time, money keeps coming in."
+        },
+
+{
+    "Role Model": "David Allen",
+    "Quotes": "If it takes less than 2 mintues, then do it now."
+},
+
+{
+    "Role Model": "Marian Wright Edelman",
+    "Quotes":"Failure is just another way to learn how to do something right."
+},
 
     {
       "Role Model": "A.P.J shaikh Kalam",
@@ -171,11 +202,20 @@
     {
       "Role Model": "Michael jordan",
       "Quotes": "The key to success is failure"
-    },
-
+},
     {
       "Role Model": "coloumb",
       "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+      },
+    
+   {
+    "Role Model":"Maya Angelou",
+    "Quotes":"You will face many defeats in life, but never let yourself be defeated" 
+   },
+
+{ 
+        "Role Model": "coloumb",
+        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
     },
     {
       "Role Model": "alard hattis",
