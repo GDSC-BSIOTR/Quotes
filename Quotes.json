@@ -696,12 +696,16 @@
   "Quotes": "Non Violence is a weapon of strong"
 },
 {
-    "Role Model" : "Albert Einstein"
+    "Role Model" : "Albert Einstein",
     "Quotes" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
 },
 {
   "Role Model": "Buddha",
   "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+},
+{
+  "Role Model": "Steve Jobs",
+  "Quotes": "Don’t let the noise of others’ opinions drown out your own inner voice."
 }
 ]
 }
