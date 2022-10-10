@@ -37,9 +37,31 @@
         },
 
 
+        {
+            "Role Model":"Murphy law",
+            "Quotes": "Anything that can go wrong will go wrong, and at the worst possible time."
+        },
+        
+        {
+            "Role Model":"Kidlin's  law",
+            "Quotes":"If you can write down the problem clearly, it is half solved."
+        },
+        
+        {
+        
+        "Role Model":"Walsons law",
+        "Quotes":"If you keep putting information and intelligence first at all the time, money keeps coming in."
+        },
 
+{
+    "Role Model": "David Allen",
+    "Quotes": "If it takes less than 2 mintues, then do it now."
+},
 
-
+{
+    "Role Model": "Marian Wright Edelman",
+    "Quotes":"Failure is just another way to learn how to do something right."
+},
 
 
 {
@@ -192,9 +214,10 @@
       "Quotes": "The key to success is failure"
     },
     
-
-
-
+   {
+    "Role Model":"Maya Angelou",
+    "Quotes":"You will face many defeats in life, but never let yourself be defeated" 
+   },
 
 { 
         "Role Model": "coloumb",
@@ -652,7 +675,7 @@
   "Role Model": "Dale Carnegie",
   "Quotes": "People rarely succeed unless they have fun in what they are doing."
 
-   }
+   },
    {
   "Role Model": "Walt disney",
   "Quotes": "The way to get started is to quit talking and begin doing "
@@ -671,3 +694,11 @@
     "Role Model" : "Albert Einstein"
     "Quotes" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
 },
+{
+  "Role Model": "Buddha",
+  "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+}
+]
+}
+
+
