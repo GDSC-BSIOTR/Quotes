@@ -1,5 +1,4 @@
 {
-
   "thought / Quotes ": [
     {
       "Role Model": "Isac Newton",
@@ -85,10 +84,11 @@
       "Role Model": "Ralph Waldo Emerson",
       "Quotes": "Life is a journey,not a destination."
     },
+    {
+      "Role Model": "Albert Einstein",
+      "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
 
-        { 
-        "Role Model": "Albert Einstein",
-        "Quotes": "The Mind that Opens to a New Ideas Never returns to its Original Sizes"
+       
     },
     {
       "Role Model": "A.P.J Abdul Kalam",
@@ -472,7 +472,7 @@
     {
       "Role Model": "Jim Rohn",
       "Quotes": "Happiness is not by chance,but by choice"
-},
+    },
 {
   "Role Model": "Walt Disney",
   "Quotes": "The way to get started is to quit talking and begin doing"
@@ -672,6 +672,22 @@
       "Quotes": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
     },
     {
+      "Role Model": "Plato",
+      "Quotes": "Opinion is the medium between knowledge and ignorance."
+    },
+    {
+      "Role Model": "Oscar Wilde",
+      "Quotes": "To live is the rarest thing in the world. Most people exist, that is all."
+    },
+    {
+      "Role Model": "Rembrandt van Rijn",
+      "Quotes": "Painting is the grandchild of nature. It is related to God."
+    },
+    {
+      "Role Model": "Evelyn Scott",
+      "Quotes": "It is impossible to control creation."
+    },
+  {
       "Role Model": "Bradley Cooper",
       "Quotes": "I think if you live in a black-and-white world, you're gonna suffer a lot. I used to be like that. But I don't believe that anymore."
     }
