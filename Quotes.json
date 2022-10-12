@@ -580,6 +580,10 @@
   "Quotes": "Painting is the grandchild of nature. It is related to God."
 },
 {
+  "Role Model": "Indira Gandhi",
+  "Quotes": "The power to question is the basis of all human progress."
+},
+{
   "Role Model": "Ernest Hemingway",
   "Quotes": "You can't get away from yourself by moving from one place to another."
 },
@@ -694,7 +698,7 @@
  {
          "Role Model": "sant Gadbe baba ",
          "Quotes":"Martil ashe kottyan koti ky RADU mi tya eka sathi!!."
-        },
+        }
 ]
 }
 
