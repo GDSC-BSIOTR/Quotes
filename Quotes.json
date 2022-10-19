@@ -18,6 +18,34 @@
       "Quotes": "True love is a love of giving, not a love of receiving"
     },
 
+
+    
+      {
+      "Role Model": "Japanese Proverb",
+      "Quotes": " Everyone makes mistakes. Nobody’s perfect.”
+    },
+    
+        {
+      "Role Model": "Francine Rivers",
+      "Quotes": "Have faith, have faith. When you have nothing else have faith.”
+    },
+    
+    
+    {
+      "Role Model": "Stephanie Bennett Henry",
+      "Quotes": "Life is tough my darling, but so are you.”
+    },
+    
+      {
+      "Role Model": "Giovannie de Sadeleer",
+      "Quotes": "Never give up on someone who is having a bad day. Tomorrow could be yours.”
+    },
+    
+     {
+      "Role Model": "Carl Sagan",
+      "Quotes": "Somewhere, something incredible is waiting to be known.”
+    },
+
       {
         "Role Model" : "Theodore Roosevelt",
         "Quotes" : "Keep you eyes on the stars, and your feet on the ground."
@@ -799,7 +827,19 @@
   {
     "Role Model": "Tom Lehrer",
     "Quotes": "Life is like a sewer… what you get out of it depends on what you put into it."
+   },
+   {
+    "Role Model": "Gloria Steiner",
+    "Quotes": "The truth will set you free, but first it will piss you off."
    } 
 ]
 }
+{
+    "Role Model": "Mahatma Gandhi",
+    "Quotes": "An eye for an eye can make the whole world blind."
+   } 
 
+{
+    "Role Model": "Mahatma Gandhi",
+    "Quotes": "Satyagrah."
+   } 
