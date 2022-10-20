@@ -795,7 +795,11 @@
   {
     "Role Model": "Tom Lehrer",
     "Quotes": "Life is like a sewer… what you get out of it depends on what you put into it."
-   } 
+   },
+    {
+         "Role Model": "Malcolm X",
+         "Quotes": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
+    }
 ]
 }
 
