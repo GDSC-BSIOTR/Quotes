@@ -908,15 +908,19 @@
    {
     "Role Model": "Stephen King",
     "Quotes": "Get busy living or get busy dying."
-   } 
+   } ,
  {
     "Role Model": "Buddha",
     "Quotes": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
-   } 
-{
-  "Role Model": "George Washington Carver",
+   } ,
+ { 
+   "Role Model": "John C. Maxwell",
+    "Quotes": "A leader is one who knows the way, goes the way, and shows the way"
+    },
+    {
+    "Role Model": "George Washington Carver",
     "Quotes": "Where there is no vision, there is no hope."
-},
+   },
    {
     "Role Model": "Pandurang Sadashiv Sane",
     "Quotes": " A torch cannot be lit without a flame. The teacher, like a flame, who has to enlighten her."
@@ -926,7 +930,7 @@
     "Quotes": "Life beats down and crushes the soul and art reminds you that you have one."
    } ,
    {
- "Role Model": "Elon Musk"
+    "Role Model": "Elon Musk"
      "Quotes": "Some people don't like change, but you need to embrace change if the alternative is disaster."
     }
    ]
